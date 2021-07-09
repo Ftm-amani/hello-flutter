@@ -1,4 +1,4 @@
-# packt_projects
+# hello_flutter
 
 A new Flutter project.
 
